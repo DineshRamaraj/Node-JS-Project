@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GET http://localhost:3000/books/
 
 ###
@@ -49,3 +50,6 @@ DELETE http://localhost:3000/books/41/
 ###
 
 GET http://localhost:3000/authors/1/books/
+=======
+GET http://localhost:3000/books/
+>>>>>>> 39ceb395dd3ab1294d2a382c71286efa1c82f2c2
